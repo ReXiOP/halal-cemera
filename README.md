@@ -74,7 +74,7 @@ Whether you're looking to automatically blur backgrounds for that DSLR look, rem
   
 </div>
 
-> *Tip: Add your actual screenshots to `assets/screenshots/` to see them here!*
+
 
 ---
 
